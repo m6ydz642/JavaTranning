@@ -1,0 +1,44 @@
+import java.util.Random;
+
+// 개표처리 하는 객체 생성
+class VoteThread implements Runnable{
+
+	// 100%
+	int targetNum=100;
+	int sum=0;
+	
+	Random ran = new Random();
+	
+	@Override
+	public void run() {
+		
+		StringBuffer sb = new StringBuffer();
+		
+		while(true){
+			// 개표율 (랜덤값으로 생성)
+			sum += ran.nextInt(10);
+			// 개표율 상태를 저장하는 공간을 비우고 시작
+			sb.delete(0, sb.toString().length());
+			
+			
+			
+			
+		}
+		
+		
+	}
+	
+	
+}
+
+
+
+public class Test3 {
+
+	public static void main(String[] args) {
+		// 투표결과 확인하는 개표 프로그램
+		
+
+	}
+
+}

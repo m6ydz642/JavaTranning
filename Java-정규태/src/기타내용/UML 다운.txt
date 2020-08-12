@@ -1,0 +1,8 @@
+ADD버튼
+
+Name : ObjectAid UML Explorer
+Location:
+http://www.objectaid.com/update/current
+
+입력후 Ok
+생성된 아이콘 클릭 넥스트

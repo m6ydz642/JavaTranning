@@ -1,0 +1,23 @@
+import java.awt.Frame;
+
+class TestFrameEx2 extends Frame{
+	
+	
+	
+	public TestFrameEx2(){
+		
+	}
+	
+	
+}
+
+
+
+public class Test2 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

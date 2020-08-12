@@ -1,0 +1,24 @@
+
+public class Test1 {
+
+	public static void main(String[] args) {
+		// 2차원 배열 (다차원 배열) : 행렬표시 가능(표)
+		// => 반복문의 개수 증가 : 이중for문
+		// 1. new 연산자
+		// 2. 직접 초기화 
+		
+		// 5 X 3 행렬을 표현하기위한 2차원 배열 생성(정수형)
+		int[][] arr = new int[5][3];
+		
+		
+		
+		
+		
+		
+		
+		
+		
+
+	}
+
+}

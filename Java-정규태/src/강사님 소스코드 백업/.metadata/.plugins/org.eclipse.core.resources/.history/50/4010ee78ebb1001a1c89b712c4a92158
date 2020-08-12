@@ -1,0 +1,9 @@
+
+public class Test1 {
+
+	public static void main(String[] args) {
+		// 쓰레드를 사용한 달리기 경주
+
+	}
+
+}

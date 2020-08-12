@@ -1,0 +1,46 @@
+
+public class Test2 {
+
+	public static void main(String[] args) {
+
+		int[] stars={ 1,6,7,9,5,3,4,6,2,8 };
+		
+		// 1 *
+		// 6 ******
+		// 7 *******
+		//  ...
+		// 8 ********
+		
+		for(int i=0;i<stars.length;i++){
+			System.out.print(stars[i]+"  ");
+			for(int j=0;j<stars[i];j++){
+				// 별그리기
+				System.out.print(" * ");
+			}
+			System.out.println();
+		}
+		
+		System.out.println("--------------------------------");
+		
+		// 1~9 사이의 숫자중에서 숫자를 하나씩 뽑아서 (랜덤값)
+		// 3자리 숫자를 만들려 한다. (단, 각자리의 숫자는 중복이 없음)
+		// 358 (o) 332(x) 313(x)
+		// => 1~9 중에서 중복지 않는 3자리 숫자 출력 하시오.
+		
+		int a = (int)(Math.random()*10)+1;
+		
+		System.out.println("a : "+a);
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+	}
+
+}

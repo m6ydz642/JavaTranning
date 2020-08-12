@@ -1,0 +1,22 @@
+import java.awt.Frame;
+
+class FrameEx2 extends Frame{
+	public FrameEx2() {
+		super("Frame v1.2");
+		
+		setSize(400,200);
+		setVisible(true);
+		
+	}
+}
+
+
+
+public class Test3 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

@@ -1,0 +1,18 @@
+
+public class Test2 {
+
+	public static void main(String[] args) {
+
+		int[] stars={ 1,6,7,9,5,3,4,6,2,8 };
+		
+		// 1 *
+		// 6 ******
+		// 7 *******
+		//  ...
+		// 8 ********
+		
+		
+		
+	}
+
+}

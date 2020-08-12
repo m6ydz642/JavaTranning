@@ -1,0 +1,27 @@
+// 개표처리 하는 객체 생성
+class VoteThread implements Runnable{
+
+	// 100%
+	int targetNum=100;
+	
+	
+	
+	@Override
+	public void run() {
+		
+	}
+	
+	
+}
+
+
+
+public class Test3 {
+
+	public static void main(String[] args) {
+		// 투표결과 확인하는 개표 프로그램
+		
+
+	}
+
+}

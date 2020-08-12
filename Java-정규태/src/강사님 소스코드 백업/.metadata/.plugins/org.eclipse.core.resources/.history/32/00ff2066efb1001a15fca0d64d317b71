@@ -1,0 +1,15 @@
+
+public class Test2 {
+
+	public static void main(String[] args) {
+		
+		// 구구단을 출력 (세로)
+		// 2~9단 (랜덤한 순서로 출력)
+		// => 구구단 객체를 생성해서 사용
+		
+		
+		
+
+	}
+
+}
